@@ -1,4 +1,4 @@
-# ✅ **README.md Intent Parser**
+# ✅ **NLP Intent Parser for Industrial Technician Queries**
 
 ---
 
