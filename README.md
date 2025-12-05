@@ -1,7 +1,3 @@
-# ✅ **NLP Intent Parser for Industrial Technician Queries**
-
----
-
 # **NLP Intent Parser — End-to-End Industrial Command Understanding**
 
 This project implements a complete **intent parsing system** for technician-style instructions in industrial and microgrid environments.
