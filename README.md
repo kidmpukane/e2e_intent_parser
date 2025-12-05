@@ -1,7 +1,5 @@
 # ✅ **README.md Intent Parser**
 
-You can copy-paste this directly.
-
 ---
 
 # **NLP Intent Parser — End-to-End Industrial Command Understanding**
